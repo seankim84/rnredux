@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageSource.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/Libraries/Image/RCTImageUtils.h

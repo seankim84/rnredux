@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rebekahpark/Desktop/rnredux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/rebekahpark/Desktop/rnredux/node_modules/react-native/React/Base/RCTPerformanceLogger.h

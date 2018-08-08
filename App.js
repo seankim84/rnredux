@@ -13,11 +13,13 @@ const App = (props) => {
     button,
     buttonText
   } = styles
+
   const { people, isFetching } = props.people;
+
   return (
     <View style={container}>
-      <Text style={text}>Redux Example</Text>
-      <TouchableHighlight style={button} onPress={() => props.getPeople()}>
+      <Text style={text}>Redux App</Text>
+      <TouchableHighlight style={button} onPress={props.getPeople}>
         <Text style={buttonText}>Load People</Text>
       </TouchableHighlight>
       {
